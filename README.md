@@ -4,4 +4,4 @@ Op jullie verzoek heb ik de mij toegestuurde opdracht uitgewerkt. Er werd gevraa
 
 Om de uitwerking te kunnen testen heb ik een jsfiddle aangemaakt waar het script kan worden gerund.
 
-https://jsfiddle.net/maxbons/ovqymer7/33/ 
+https://jsfiddle.net/maxbons/ovqymer7/35/ 
